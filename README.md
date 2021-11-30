@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LogicalLokesh
-- 👀 I’m interested in coding 
-- 🌱 I’m currently learning python
+- 👀 I’m interested in *
+- 🌱 I’m currently learning *
 - 📫 How to reach me:  l0kesh109@outlook.com
 
 <!---
