@@ -1,1 +1,1 @@
-Hi there! 👋
+Junior Programmer and C.S Student 
