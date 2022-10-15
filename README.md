@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on SICT<br>🤝 I’m looking for help with my Website<br>🌱 I’m currently learning Flutter, Dart, Firebase<br>💬 Ask me about C\C++, Windows, and Electronics.<br>
+🔭 I’m currently working on Arctic ICe Core<br>🤝 I’m looking for help with Firebase<br>🌱 I’m currently learning C#, Firebase<br>💬 Ask me about C\C++, Windows, and Electronics.<br>
 
 
 ## 🌐 Socials:
