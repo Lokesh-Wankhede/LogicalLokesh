@@ -1,6 +1,14 @@
 # 💫 About Me:
 🔭 I’m currently working on Rhythm Core<br>🤝 I’m looking for help with ESP32 Firebase Library<br>🌱 I’m currently learning C#, ESP32 <br>💬 Ask me about C/C++, Arduino, Electronics, and Windows.<br>⚡ Fun fact: Android is nothing but Linux on Steroids!
 
+## Passion
+
+I like software and hardware equally. My passion is to build something new, something that can make the life of people a bit more easy, fun and secure. I'm also passionate about electronic projects and gadgets, which I love to share with others through my blogs and social media. 
+
+## Learning Approach
+
+I prefer practical knowledge over theoretical information. I enjoy both software and hardware equally, and I believe that they are both necessary for the optimal functioning of the technology. I find that learning through practical examples and hands-on experience is the best way to understand and retain the material.
+
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://facebook.com/LogicalLokesh) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://instagram.com/LogicalLokesh) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/c/UCO8v_yIToV0M1K9QA5NRvAQ) 
@@ -28,5 +36,3 @@
 
 ---
 [![](https://visitcount.itsvg.in/api?id=LogicalLokesh&icon=6&color=6)](https://visitcount.itsvg.in)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
