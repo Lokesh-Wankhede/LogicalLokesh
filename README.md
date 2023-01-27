@@ -1,3 +1,6 @@
+[![](https://visitcount.itsvg.in/api?id=LogicalLokesh&icon=6&color=6)](https://visitcount.itsvg.in)
+
+
 # 💫 About Me:
 🔭 I’m currently working on Rhythm Core<br>🤝 I’m looking for help with ESP32 Firebase Library<br>🌱 I’m currently learning C#, ESP32 <br>💬 Ask me about C/C++, Arduino, Electronics, and Windows.<br>⚡ Fun fact: Android is nothing but Linux on Steroids!
 
@@ -16,14 +19,6 @@ I prefer practical knowledge over theoretical information. I enjoy both software
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white) ![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![Adobe Audition](https://img.shields.io/badge/Adobe%20Audition-9999FF.svg?style=for-the-badge&logo=Adobe%20Audition&logoColor=white) ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 
-# 🏗️ Stats:
-
-### Coding Activity -
-![Coding Activity](https://wakatime.com/share/@LogicalLokesh/2979e9b1-e110-472b-8c8e-ab5787c2d929.svg)
-
-### Languages used
-![Languages](https://wakatime.com/share/@LogicalLokesh/64f50597-a1fa-4d9f-85d2-d15dca41d852.svg)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=LogicalLokesh&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=LogicalLokesh&theme=dark&hide_border=false)<br/>
@@ -38,5 +33,11 @@ I prefer practical knowledge over theoretical information. I enjoy both software
 ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
----
-[![](https://visitcount.itsvg.in/api?id=LogicalLokesh&icon=6&color=6)](https://visitcount.itsvg.in)
+
+# 🏗️ Stats:
+
+### Coding Activity -
+![Coding Activity](https://wakatime.com/share/@LogicalLokesh/c90322f8-ea69-4376-811c-1b3af1f4c443.png)
+
+### Languages used
+![Languages](https://wakatime.com/share/@LogicalLokesh/0f550c07-cb24-4fe3-8100-2f00e71cb096.png)
