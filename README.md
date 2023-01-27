@@ -30,14 +30,10 @@ I prefer practical knowledge over theoretical information. I enjoy both software
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
-
-
 # 🏗️ Stats:
 
 ### Coding Activity -
-![Coding Activity](https://wakatime.com/share/@LogicalLokesh/c90322f8-ea69-4376-811c-1b3af1f4c443.png)
+<img src="https://wakatime.com/share/@LogicalLokesh/c90322f8-ea69-4376-811c-1b3af1f4c443.png" width="512px"/>
 
 ### Languages used
-![Languages](https://wakatime.com/share/@LogicalLokesh/0f550c07-cb24-4fe3-8100-2f00e71cb096.png)
+<img src="https://wakatime.com/share/@LogicalLokesh/0f550c07-cb24-4fe3-8100-2f00e71cb096.png" width="512px"/>
