@@ -32,7 +32,7 @@ I prefer practical knowledge over theoretical information. I enjoy both software
 
 # 🏗️ Stats:
 
-### Coding Activity -
+### Activity -
 <img src="https://wakatime.com/share/@LogicalLokesh/c90322f8-ea69-4376-811c-1b3af1f4c443.png" width="512px"/>
 
 ### Languages used
