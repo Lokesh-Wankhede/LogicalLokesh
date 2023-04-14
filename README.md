@@ -2,7 +2,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Rhythm Core<br>🤝 I’m looking for help with ESP32 Firebase Library<br>🌱 I’m currently learning C#, ESP32 <br>💬 Ask me about C/C++, Arduino, Electronics, and Windows.<br>⚡ Fun fact: Android is nothing but Linux on Steroids!
+🔭 I’m currently working on Rhythm Core<br>🤝 I’m looking for help with Flutter<br>🌱 I’m currently learning Dart, Flutter <br>💬 Ask me about C/C++, Arduino, Electronics, and Windows.<br>⚡ Fun fact: Android is nothing but Linux on Steroids!
 
 ## Passion
 
